@@ -1,10 +1,10 @@
 # Chatbot!
 
-##Josh's project features
+## Josh's project features
 
-*I started by experimenting with different styling of the DOM elements. 
-*I changed the borders to have a radius, made some space in some places. 
-*The background image that looks like an electronic eye was cool, so I added another and aligned them to either side of the header. 
+* I started by experimenting with different styling of the DOM elements. 
+* I changed the borders to have a radius, made some space in some places. 
+* The background image that looks like an electronic eye was cool, so I added another and aligned them to either side of the header. 
 
 When you load the page, Hal is the first greet the user. When the user responds, Hal "thinks" before continuing, based on the length of the users response. If the user did not greet Hal in any way, Hal is annoyed, and basically says "WTF?" Otherwise, Hal says something nice and the convo continues. 
 
